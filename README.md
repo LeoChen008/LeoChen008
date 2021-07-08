@@ -1,4 +1,4 @@
-### A lazy boy
+### A human being who interested in techs
 <a href="https://github.com/LeoChen008">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?theme=radical&username=LeoChen008&show_icons=true&include_all_commits=true" />
 </a>
